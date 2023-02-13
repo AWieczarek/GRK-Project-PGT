@@ -1,0 +1,225 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\dependencies\glfw-3.3.8.bin.WIN32\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2065: 'is_invocable': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(242,3): message : see reference to class template instantiation 'siv::BasicPerlinNoise<Float>' being compiled
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2065: 'invoke_result_t': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2988: unrecognizable template declaration/definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(119,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2065: 'is_invocable': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2065: 'invoke_result_t': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2988: unrecognizable template declaration/definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(129,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(253,3): error C2039: 'is_invocable': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(253,3): error C2065: 'is_invocable': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(253,3): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(253,3): error C2039: 'invoke_result_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(253,3): error C2065: 'invoke_result_t': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(253,3): error C2988: unrecognizable template declaration/definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(256,3): error C2143: syntax error: missing ';' before '{'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(256,3): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(433,2): error C2039: 'is_invocable': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(433,2): error C2065: 'is_invocable': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(433,2): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(433,2): error C2039: 'invoke_result_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(433,2): error C2065: 'invoke_result_t': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(433,2): error C2988: unrecognizable template declaration/definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(435,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(435,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(443,2): error C2244: 'siv::BasicPerlinNoise<Float>::reseed': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(442,39): message : see declaration of 'siv::BasicPerlinNoise<Float>::reseed'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(443,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(443,2): message : 'void siv::BasicPerlinNoise<Float>::reseed(const siv::BasicPerlinNoise<Float>::seed_type)'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(443,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(443,2): message : 'void siv::BasicPerlinNoise<Float>::reseed(siv::BasicPerlinNoise<Float>::seed_type)'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(448,2): error C2039: 'is_invocable': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(448,2): error C2065: 'is_invocable': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(448,2): error C2059: syntax error: '>'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(448,2): error C2039: 'invoke_result_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(448,2): error C2065: 'invoke_result_t': undeclared identifier
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(448,2): error C2988: unrecognizable template declaration/definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(450,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(450,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(460,2): error C2244: 'siv::BasicPerlinNoise<Float>::serialize': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(459,96): message : see declaration of 'siv::BasicPerlinNoise<Float>::serialize'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(460,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(460,2): message : 'const BasicPerlinNoise<Float>::state_type &siv::BasicPerlinNoise<Float>::serialize(void) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(460,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(460,2): message : 'const siv::BasicPerlinNoise<Float>::state_type &siv::BasicPerlinNoise<Float>::serialize(void) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(466,2): error C2244: 'siv::BasicPerlinNoise<Float>::deserialize': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(465,49): message : see declaration of 'siv::BasicPerlinNoise<Float>::deserialize'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(466,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(466,2): message : 'void siv::BasicPerlinNoise<Float>::deserialize(const siv::BasicPerlinNoise<Float>::state_type &) noexcept'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(466,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(466,2): message : 'void siv::BasicPerlinNoise<Float>::deserialize(const siv::BasicPerlinNoise<Float>::state_type &) noexcept'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(474,2): error C2244: 'siv::BasicPerlinNoise<Float>::noise1D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(473,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::noise1D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(474,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(474,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::noise1D(const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(474,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(474,2): message : 'Float siv::BasicPerlinNoise<Float>::noise1D(Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(482,2): error C2244: 'siv::BasicPerlinNoise<Float>::noise2D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(481,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::noise2D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(482,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(482,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::noise2D(const Float,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(482,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(482,2): message : 'Float siv::BasicPerlinNoise<Float>::noise2D(Float,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(490,2): error C2244: 'siv::BasicPerlinNoise<Float>::noise3D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(489,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::noise3D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(490,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(490,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::noise3D(const Float,const Float,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(490,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(490,2): message : 'Float siv::BasicPerlinNoise<Float>::noise3D(Float,Float,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(540,2): error C2244: 'siv::BasicPerlinNoise<Float>::noise1D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(539,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::noise1D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(540,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(540,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::noise1D_01(const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(540,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(540,2): message : 'Float siv::BasicPerlinNoise<Float>::noise1D_01(Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(546,2): error C2244: 'siv::BasicPerlinNoise<Float>::noise2D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(545,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::noise2D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(546,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(546,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::noise2D_01(const Float,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(546,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(546,2): message : 'Float siv::BasicPerlinNoise<Float>::noise2D_01(Float,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(552,2): error C2244: 'siv::BasicPerlinNoise<Float>::noise3D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(551,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::noise3D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(552,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(552,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::noise3D_01(const Float,const Float,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(552,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(552,2): message : 'Float siv::BasicPerlinNoise<Float>::noise3D_01(Float,Float,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(560,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave1D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(559,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave1D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(560,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(560,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave1D(const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(560,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(560,2): message : 'Float siv::BasicPerlinNoise<Float>::octave1D(Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(566,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave2D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(565,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave2D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(566,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(566,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave2D(const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(566,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(566,2): message : 'Float siv::BasicPerlinNoise<Float>::octave2D(Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(572,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave3D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(571,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave3D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(572,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(572,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave3D(const Float,const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(572,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(572,2): message : 'Float siv::BasicPerlinNoise<Float>::octave3D(Float,Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(580,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave1D_11': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(579,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave1D_11'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(580,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(580,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave1D_11(const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(580,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(580,2): message : 'Float siv::BasicPerlinNoise<Float>::octave1D_11(Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(586,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave2D_11': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(585,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave2D_11'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(586,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(586,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave2D_11(const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(586,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(586,2): message : 'Float siv::BasicPerlinNoise<Float>::octave2D_11(Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(592,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave3D_11': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(591,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave3D_11'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(592,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(592,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave3D_11(const Float,const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(592,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(592,2): message : 'Float siv::BasicPerlinNoise<Float>::octave3D_11(Float,Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(600,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave1D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(599,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave1D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(600,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(600,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave1D_01(const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(600,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(600,2): message : 'Float siv::BasicPerlinNoise<Float>::octave1D_01(Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(606,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave2D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(605,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave2D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(606,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(606,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave2D_01(const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(606,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(606,2): message : 'Float siv::BasicPerlinNoise<Float>::octave2D_01(Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(612,2): error C2244: 'siv::BasicPerlinNoise<Float>::octave3D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(611,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::octave3D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(612,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(612,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::octave3D_01(const Float,const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(612,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(612,2): message : 'Float siv::BasicPerlinNoise<Float>::octave3D_01(Float,Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(620,2): error C2244: 'siv::BasicPerlinNoise<Float>::normalizedOctave1D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(619,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::normalizedOctave1D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(620,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(620,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::normalizedOctave1D(const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(620,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(620,2): message : 'Float siv::BasicPerlinNoise<Float>::normalizedOctave1D(Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(626,2): error C2244: 'siv::BasicPerlinNoise<Float>::normalizedOctave2D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(625,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::normalizedOctave2D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(626,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(626,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::normalizedOctave2D(const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(626,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(626,2): message : 'Float siv::BasicPerlinNoise<Float>::normalizedOctave2D(Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(632,2): error C2244: 'siv::BasicPerlinNoise<Float>::normalizedOctave3D': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(631,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::normalizedOctave3D'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(632,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(632,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::normalizedOctave3D(const Float,const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(632,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(632,2): message : 'Float siv::BasicPerlinNoise<Float>::normalizedOctave3D(Float,Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(640,2): error C2244: 'siv::BasicPerlinNoise<Float>::normalizedOctave1D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(639,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::normalizedOctave1D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(640,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(640,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::normalizedOctave1D_01(const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(640,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(640,2): message : 'Float siv::BasicPerlinNoise<Float>::normalizedOctave1D_01(Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(646,2): error C2244: 'siv::BasicPerlinNoise<Float>::normalizedOctave2D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(645,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::normalizedOctave2D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(646,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(646,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::normalizedOctave2D_01(const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(646,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(646,2): message : 'Float siv::BasicPerlinNoise<Float>::normalizedOctave2D_01(Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(652,2): error C2244: 'siv::BasicPerlinNoise<Float>::normalizedOctave3D_01': unable to match function definition to an existing declaration
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(651,79): message : see declaration of 'siv::BasicPerlinNoise<Float>::normalizedOctave3D_01'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(652,2): message : definition
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(652,2): message : 'BasicPerlinNoise<Float>::value_type siv::BasicPerlinNoise<Float>::normalizedOctave3D_01(const Float,const Float,const Float,const int32_t,const Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(652,2): message : existing declarations
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(652,2): message : 'Float siv::BasicPerlinNoise<Float>::normalizedOctave3D_01(Float,Float,Float,int32_t,Float) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(127,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2039: 'is_invocable': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(136,35): message : see reference to class template instantiation 'siv::BasicPerlinNoise<double>' being compiled
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(117,3): error C2039: 'invoke_result_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2039: 'is_invocable': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(128,3): error C2039: 'invoke_result_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(33,1): message : see declaration of 'std'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(172,41): error C2672: 'siv::BasicPerlinNoise<double>::octave2D_01': no matching overloaded function found
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(206,14): message : could be 'double siv::BasicPerlinNoise<double>::octave2D_01(double,double,int32_t,double) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(172,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'glm::vec3'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(172,28): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(173,52): error C2672: 'siv::BasicPerlinNoise<double>::octave2D_01': no matching overloaded function found
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(206,14): message : could be 'double siv::BasicPerlinNoise<double>::octave2D_01(double,double,int32_t,double) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(173,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'glm::vec3'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(173,28): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(174,63): error C2672: 'siv::BasicPerlinNoise<double>::octave2D_01': no matching overloaded function found
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(206,14): message : could be 'double siv::BasicPerlinNoise<double>::octave2D_01(double,double,int32_t,double) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(174,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'glm::vec3'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(174,28): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(175,52): error C2672: 'siv::BasicPerlinNoise<double>::octave2D_01': no matching overloaded function found
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\PerlinNoise.hpp(206,14): message : could be 'double siv::BasicPerlinNoise<double>::octave2D_01(double,double,int32_t,double) noexcept const'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(175,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'glm::vec3'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(175,28): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(232,38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(255,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(400,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(438,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(523,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(524,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(544,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(699,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\adamw\REPOS\GRK-Projekt-PGT\grk-projekt\src\worldSpaceLoader.hpp(701,21): warning C4305: '+=': truncation from 'double' to 'float'
